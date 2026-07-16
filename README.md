@@ -7,7 +7,6 @@ Compiled from archival research by [Freg Stokes](https://www.fregjstokes.com/) c
 
 ![](splash.png "Distribution of Indigenous resistance events")
 
----
 ## spatial data information
 
 ```
@@ -54,9 +53,7 @@ conflict_classification: String (56.0)
 notes: String (172.0)
 reference: String (310.0)
 ```
----
 
----
 ## attributes
 
 |dates       |conflict_classification                                 |notes                                                                                                                                                                   |reference                                                                                                                                                                                                                                                                                                      |         x|         y|
