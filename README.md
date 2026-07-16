@@ -1,7 +1,7 @@
 # indigenous-resistance
 A colonial-era dataset of geolocated Indigenous resistance events around the southern Atlantic Forest.
 
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21396153.svg)
+<a href="https://doi.org/10.5281/zenodo.21396153"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21396153.svg" alt="DOI"></a>
 
 Compiled from archival research by [Freg Stokes](https://www.fregjstokes.com/) c. 2015-2025 as part of his doctoral thesis, [_The Hummingbird’s Atlas: Mapping Guaraní Resistance in the Atlantic Rainforest during the Emergence of Capitalism (1500–1768)_](https://hdl.handle.net/11343/319482).
 
